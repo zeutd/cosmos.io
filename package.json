@@ -1,0 +1,24 @@
+{
+  "name": "cosmos.io",
+  "version": "0.0.1",
+  "description": "space pvp game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zeutd",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeutd/cosmos.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeutd/cosmos.io/issues"
+  },
+  "homepage": "https://github.com/zeutd/cosmos.io#readme"
+}
